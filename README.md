@@ -1,10 +1,10 @@
-#FontAwesomeFx\n
+# FontAwesomeFx
 The most user friendly version of fontawesome library for JavaFX. Use your icons the same way as you use in the web developement.
 
-##Usage
+## Usage
 First import the library to your project. In FXML open FontAwesomeIconView tag and pass two parameters to it: **Icon and Color**. This will do the job!
 
-###Icon Name
+### Icon Name
 The following format is accepted for the icon value: 
 
 `{font-group} fa-{font_name}`
@@ -15,7 +15,7 @@ The following format is accepted for the icon value:
 
 `fal fa-trash`
 
-###Color
+### Color
 For color field you simply pass the name of color, say `black` or its hex representation `#000000`.
 
 ___
