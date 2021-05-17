@@ -1,4 +1,4 @@
-#FontAwesomeFx
+#FontAwesomeFx\n
 The most user friendly version of fontawesome library for JavaFX. Use your icons the same way as you use in the web developement.
 
 ##Usage
