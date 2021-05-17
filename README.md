@@ -21,4 +21,5 @@ For color field you simply pass the name of color, say `black` or its hex repres
 ___
 
 So overall your FontAwesomeIcon tag should look like this:
-`<FontAwesomeIconView icon="fad fa-envelope" color="#0085FF"/>`
+
+```<FontAwesomeIconView icon="fad fa-envelope" color="#0085FF"/>```
