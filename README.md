@@ -24,7 +24,9 @@ So overall your FontAwesomeIcon tag should look like this:
 
 ```<FontAwesomeIconView icon="fad fa-envelope" color="#0085FF"/>```
 
-### Screenshots
+___
+
+## Screenshots
 ### Code
 ![Code](./screenshots/2.png)
 ### Result
