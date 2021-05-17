@@ -1,11 +1,8 @@
-<?import javafx.geometry.Insets?>
-<?import javafx.scene.layout.GridPane?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.layout.StackPane?>
-<?import javafx.scene.layout.VBox?>
 <?import com.jaker.fontawesomefx.FontAwesomeIconView?>
-<VBox fx:controller="com.jaker.fontawesomefx.Controller" xmlns:fx="http://javafx.com/fxml" fx:id="main">
-    <FontAwesomeIconView icon="fad fa-cogss" color="#0085FF" style="-fx-font-size: 40;"/>
-</VBox>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane fx:id="main" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jaker.fontawesomefx.Controller">
+    <FontAwesomeIconView color="#0085FF" icon="fad fa-cogs" maxHeight="-Infinity" maxWidth="-Infinity" style="-fx-font-size: 40;" StackPane.alignment="CENTER" />
+</StackPane>
